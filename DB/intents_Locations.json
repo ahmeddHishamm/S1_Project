@@ -1,0 +1,36 @@
+[   
+        { "LIDO" :"You can find lido in the Avenue beside Building 1C" ,
+         "service": "Lido is a truck that sells delicious burgers "
+        },       
+
+        {"PICK UP":"You can find pick up in floor number 5 in the first building or on the ground floor of building 1C ",
+         "service": "pickup is a shop that sells all variety of snacks and drinks " 
+        },
+
+        {"TBS": "You can find TBS on the ground floor of building 1A" ,
+         "service": "TBS is a shop that sells coffee and sandwiches "
+        },
+
+        { "SEVEN FORTUNES" :"You can find them outside of building 1A infront of the main Enterance" ,
+         "service": "Seven fortunes sells Coffee"
+        },
+
+        { "ELEMENTS" :"You can find Elements on the ground floor of building 1A " ,
+         "service": "Elements is a Restaurant that sells a wide variety of food "
+        }, 
+
+        { "CLINIC" :"You can find The Clinic on the -1 of building 1A ",
+            "service" : "The Clinic is Always available for students that need medical assistance"
+        }, 
+
+        { "LIBRARY" :"You can find the library on the first floor of building 1A" ,
+         "service": "The Library is a place where students come to study and read "   
+        },
+
+        { "REGISTRAR":"You can find The Registrar on the ground floor of building 1A to the left of the enterance hall" ,
+         "service": "the Registrar is a place where students can go to for any specific question regarding acedamics "
+        } 
+
+]     
+
+

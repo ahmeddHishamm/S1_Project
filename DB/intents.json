@@ -1,0 +1,20 @@
+{"existing_intents": [
+        {"key": "greeting",
+         "ways": ["greeting","hi", "hello", "good day", "whats up","howdy","bonjour"]
+        },
+
+        {"key": "recommend",
+         "ways": ["recommend","suggest","endorse","tell me ","second","endorse","advise","advocate","offer", "submit", "perfer","plug","tip","approve","hail" ]
+        },
+
+
+        {"key": "location",
+         "ways": ["spot","area","venue","space","site","setting","section","location"]
+        },
+
+
+        {"key": "eat",
+         "ways": ["eat","chew","dine","nibble","devour","ingest","munch","snack","feed","food","hungry"]
+        }
+   ]
+}

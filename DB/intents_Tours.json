@@ -1,0 +1,30 @@
+[
+        {"TourID" : 1,
+          "TourTitle": "Campus Tour 1",
+         "TourDate": "November 30th at 1:30 Pm",
+         "Capacity": 25,
+         "TourAvailability": true,
+         "TourLength":1,
+         "Attendees" : []
+        },
+        {"TourID" : 2,
+          "TourTitle": "Campus Tour 2",
+         "TourDate": "December 12 at 2:30 pm ",
+         "Capacity": 50,
+         "TourAvailability":true,
+         "TourLength":2,
+         "Attendees" : []
+        },
+        {"TourID" : 3,
+          "TourTitle": "Campus Tour 3",
+         "TourDate": "December 20 at 10 Am",
+         "Capacity": 10,
+         "TourAvailability":false,
+         "TourLength":1,
+         "Attendees" : []
+        }
+]
+
+
+
+

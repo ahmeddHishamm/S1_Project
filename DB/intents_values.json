@@ -1,0 +1,49 @@
+[
+    {"key": "greeting",
+     "ways": ["greeting","hi", "how are you", "hello", "good day", "whats up","howdy","yo","bonjour"]
+    },
+
+    {"key": "location",
+      "ways": ["where","spot","area","venue","space","site","setting","section","location"]
+    },
+    {"key": "service",
+      "ways": ["services","deliver","provide"]
+    },
+
+    {"key": "Lido",
+      "ways" : ["lido","leedo","ledo","ldo"]
+    },        
+
+    {"key": "pick up",
+     "ways" : ["pickup","pikcup","piccup","pickp","Pickap"]
+    }, 
+
+    {"key": "TBS",
+      "ways":["tbs","The bakery shop"]
+    },
+
+    {"key": "seven fortunes",
+     "ways":["seven fort","seven for","7 fortunes","7 fourtounes","seven fortunes"]
+    },
+
+    {"key": "Elements",
+      "ways":["element","Elemtens","elemants","elems" ]    
+    }, 
+
+    {"key": "Clinic",
+      "ways":["Doctor","Clinic","health","clnc","clnic"]     
+    },
+    
+    {"key": "Library",
+      "ways" :["Library","library"]
+    },
+
+    {"key": "Registrar",
+       "ways" :["Register","regestrar","rgstrar"]   
+    },
+
+    {"key": "quit",
+       "ways" :["quit","abort","exit"]
+    }
+
+]
